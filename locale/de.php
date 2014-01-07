@@ -8,7 +8,7 @@ return array(
     'monthNamesShort'=>array(
         'Jan','Feb','Mär','Apr','Mai','Jun','Jul','Aug','Sep','Okt','Nov','Dez'
     ),
-    'firstDay'=>0,
+    'firstDay'=>1,
     'dayNames'=>array(
         'Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag','Sonntag'
     ),
